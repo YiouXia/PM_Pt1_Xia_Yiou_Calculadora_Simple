@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator_title">Calculator</string>
+    <string name="error_division_zero">Cannot divide by 0</string>
+    <string name="error_negative_root">Invalid square root</string>
+    <string name="error_invalid_number">Invalid number</string>
+</resources>
